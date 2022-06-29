@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "92dba33fa150b50cdbb2",
-    "url": "/static/css/main.8189407e.chunk.css"
+    "revision": "3ed13e7a9a91f9cee6c9",
+    "url": "/static/css/main.562af2e3.chunk.css"
   },
   {
-    "revision": "92dba33fa150b50cdbb2",
-    "url": "/static/js/main.92dba33f.chunk.js"
+    "revision": "3ed13e7a9a91f9cee6c9",
+    "url": "/static/js/main.3ed13e7a.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.42ac5946.js"
   },
   {
-    "revision": "8249fdd5fe09e600c4fd",
+    "revision": "3d9a0d9b703445de4082",
     "url": "/static/css/2.c0aa52ac.chunk.css"
   },
   {
-    "revision": "8249fdd5fe09e600c4fd",
-    "url": "/static/js/2.8249fdd5.chunk.js"
+    "revision": "3d9a0d9b703445de4082",
+    "url": "/static/js/2.3d9a0d9b.chunk.js"
   },
   {
     "revision": "c70f9c7b2f5e033c59210103237f6d2b",
@@ -32,11 +32,7 @@ self.__precacheManifest = [
     "url": "/static/media/minerLogo.9b9000a4.png"
   },
   {
-    "revision": "9b9000a40d491a701424e94826c7ffe9",
-    "url": "/static/media/banner.9b9000a4.png"
-  },
-  {
-    "revision": "d9fc57d9700a7e4ab2d1a16d653cc8a3",
+    "revision": "4bdaedce32592390a82561f21b0cb6eb",
     "url": "/index.html"
   }
 ];
