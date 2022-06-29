@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "27039bcca695a1fa1123",
+    "revision": "00a0072dd798507fbda3",
     "url": "/static/css/main.562af2e3.chunk.css"
   },
   {
-    "revision": "27039bcca695a1fa1123",
-    "url": "/static/js/main.27039bcc.chunk.js"
+    "revision": "00a0072dd798507fbda3",
+    "url": "/static/js/main.00a0072d.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/static/media/minerLogo.9b9000a4.png"
   },
   {
-    "revision": "1af761bea6e5b0d2cab6818a37f7c780",
+    "revision": "ccce38609011536e763956298caf348f",
     "url": "/index.html"
   }
 ];
